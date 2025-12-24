@@ -1,0 +1,22 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.4.1
+torchvision==0.19.1
+
+diffusers==0.32.1
+transformers==4.37.2
+pandas==2.0.3
+open_clip_torch==2.27.1
+openai-clip
+clip-anytorch==2.6.0
+protobuf
+sentencepiece
+fairscale==0.4.4
+datasets==3.1.0
+accelerate==0.28.0
+peft==0.13.2
+opencv-python==4.7.0.72
+ultralytics==8.3.75
+onnxruntime==1.19.2
+pytorch-fid==0.3.0
+pytorch-lightning==2.0.1.post0
+lpips==0.1.4
